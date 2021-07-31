@@ -1,8 +1,8 @@
 
-def num_square(x):
+def num_square(z):
 	"""takes a vlaues and gives it's square value
 	"""
 	"""testing it again in github
 	"""
-	return(x ** 2)
-print(num_square(6))
+	return(z ** 2)
+print(num_square(8))
