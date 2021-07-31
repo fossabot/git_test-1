@@ -6,3 +6,4 @@ def num_square(z):
 	"""
 	return(z ** 2)
 print(num_square(8))
+
