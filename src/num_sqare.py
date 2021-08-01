@@ -5,5 +5,12 @@ def num_square(z):
 	"""testing it again in github
 	"""
 	return(z ** 2)
+def  num_squre(y):
+	return(y/2 == even)
+
+
+
+
 print(num_square(8))
+print(num_squre(8))
 
